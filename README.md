@@ -1,2 +1,2 @@
 # LogReg
-logistic regression
+Beispiel: Logistische Regression
